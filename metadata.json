@@ -1,0 +1,6 @@
+{
+  "name": "Creative Quest Lab — BrainFlex Digital",
+  "description": "An interactive creative thinking and maker adventure game by BrainFlex Digital. Imagine. Build. Experiment. Discover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
